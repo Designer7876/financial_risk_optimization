@@ -46,41 +46,40 @@ def main():
     #     <p style="color:white;text-align:left"> No of mortgage accounts </p>
     #     """
     op_ac = """
-        <p style="color:blue;text-align:left"> Total number of currently open accounts. </p>
+        <p style="color:white;text-align:left"> Total number of currently open accounts. </p>
         """
     ear_cr = """
-        <p style="color:blue;text-align:left"> Year of the earliest line of credit </p>
+        <p style="color:white;text-align:left"> Year of the earliest line of credit </p>
         """
     fico = """
-        <p style="color:blue;text-align:left"> FICO Range(LOW) </p>
+        <p style="color:white;text-align:left"> FICO Range(LOW) </p>
         """
     an_inc = """
-        <p style="color:blue;text-align:left"> Annual Income </p>
+        <p style="color:white;text-align:left"> Annual Income </p>
         """
     crb = """
-        <p style="color:blue;text-align:left"> Total Credit Revolving Balance </p>
+        <p style="color:white;text-align:left"> Total Credit Revolving Balance </p>
         """
     rlur = """
-        <p style="color:blue;text-align:left"> Revolving Line Utilization Rate </p>
+        <p style="color:white;text-align:left"> Revolving Line Utilization Rate </p>
         """
     dti = """
-        <p style="color:blue;text-align:left"> Debt To Income Ratio </p>
+        <p style="color:white;text-align:left"> Debt To Income Ratio </p>
         """
     intr = """
-        <p style="color:blue;text-align:left"> Interest Rate </p>
+        <p style="color:white;text-align:left"> Interest Rate </p>
         """
     loan = """
-        <p style="color:blue;text-align:left"> Loan Amount </p>
+        <p style="color:white;text-align:left"> Loan Amount </p>
         """
     lpm = """
-        <p style="color:blue;text-align:left"> Last Payment Amount </p>
-        <p style="color:blue;text-align:left"> Last Payment Amount </p>
+        <p style="color:white;text-align:left"> Last Payment Amount </p>
         """
     st.markdown(
         """
             <style>
                 .reportview-container{
-                background:url("https://thumbs.dreamstime.com/z/row-coins-bank-book-graph-business-finance-background-row-coins-bank-book-graph-business-139446654.jpg");
+                background:url("https://wallpapercave.com/wp/wp6602995.jpg");
                 background-repeat:no-repeat;
                 background-size: cover;
                 font-color:'white';
